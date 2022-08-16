@@ -25,7 +25,8 @@ You may also see any lint errors in the console.
 <hr>
 Capturas:📷 
 desktop view:
-![image](https://user-images.githubusercontent.com/101824921/184984603-29d7773e-0239-40ac-b2ee-a89385a3e870.png)
+
+![image](https://user-images.githubusercontent.com/101824921/184986310-6b636e8a-c140-4e1c-8f96-4e3c4cff6a35.png)
 
 
 <br>
